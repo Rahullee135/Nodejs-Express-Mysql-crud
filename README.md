@@ -1,4 +1,4 @@
-# Node.js User Management System - Express, Express-Handlebars, HBS, MySQL
+# Crud application using Node.js,Expressjs,Mysql 
 
 ## Create .env file
 Create a .env file to store your database credentials
